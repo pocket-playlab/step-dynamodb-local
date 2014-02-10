@@ -18,6 +18,10 @@ build:
 
 # Changelog
 
+## 0.0.2
+
+- omit in-memory mode
+
 ## 0.0.1
 
 - initial release
