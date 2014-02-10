@@ -1,0 +1,7 @@
+name: dynamodb-local
+version: 0.0.1
+description: |
+  run DynamoDB Local.
+keywords:
+  - aws
+  - dynamodb
